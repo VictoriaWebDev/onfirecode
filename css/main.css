@@ -412,6 +412,7 @@ p {
     max-width: 830px;
     height: 426px;
     box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+    border: none;
     border-radius: 10px;
 }
 
